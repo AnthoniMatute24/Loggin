@@ -36,7 +36,7 @@ include('./PHP/Controladores/Conexion/Conexion_be.php');
                     <button id="btn__iniciar-sesion">Iniciar Sesión</button>
                 </div>
                 <div class="caja__trasera-register">
-                    <h3>¿Aún no tienesssssssssssssssssss una cuenta?</h3>
+                    <h3>¿Aún no tienes una cuenta?</h3>
                     <p>Regístrate para que puedas iniciar sesión</p>
                     <button id="btn__registrarse">Registrarme</button>
                 </div>
