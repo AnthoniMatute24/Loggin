@@ -12,6 +12,6 @@ $n= $_SESSION['id_D'];
 $a='CIERRE DE SESIÓN';
 $d= $_SESSION['usuario'].' FINALIZÓ SESIÓN.';
 session_destroy();
-header("location: /index.php");
+header("location: /Index.php");
 bitacora($n,$a,$d); 
 
